@@ -1,4 +1,4 @@
-The Maze Generator Project is a program designed to automatically create mazes of varying sizes and complexities. Using algorithms like Depth-First Search (DFS), Prim's, or Kruskal's, it generates unique solvable mazes with customizable dimensions.
+The Maze Generator Project is a program designed to automatically create mazes of varying sizes and complexities. Using algorithms like Depth-First Search (DFS), it generates unique solvable mazes with customizable dimensions.
 
 Key Features:
 
