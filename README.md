@@ -20,4 +20,4 @@ User interaction (gameplay)
 
 This project is great for learning algorithm design, recursion, and problem-solving while creating fun, interactive mazes.
 
-Example Tech Stack: Python (with Pygame/Tkinter), Java, or C++.
+Example Tech Stack: Python (with Pygame/Tkinter), Python
